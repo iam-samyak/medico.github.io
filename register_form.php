@@ -78,7 +78,7 @@ if(isset($_POST['submit'])){
     <link rel="icon" href="image/logo.png" type="image/x-icon">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
     
-    <title>Register</title>
+    <title>Register - Medicio</title>
 </head>
 <body>
     <!-- header  -->

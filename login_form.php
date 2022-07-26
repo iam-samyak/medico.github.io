@@ -55,7 +55,7 @@ if(isset($_POST['submit'])){
     <link rel="stylesheet" href="style.css">
     <link rel="icon" href="image/logo.png" type="image/x-icon">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
-    <title>Login</title>
+    <title>Login - Medicio</title>
 </head>
 <body>
     <!-- header  -->
