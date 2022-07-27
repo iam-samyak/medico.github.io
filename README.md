@@ -73,9 +73,9 @@ Update database_name, database_username, database_password, in `config.php` in p
 > **Note:** In Visual Studio Code install an extension **Live Server** and port it see immediate update of any change made in the code.
  
 ### **Some Snapshorts of Project**
-![Home page of Project](https://drive.google.com/file/d/17pZl6YZ-CtkblFR9JZS_nvFpMHpcMh7X/view?usp=sharing)
+![Home page of Project](https://raw.githubusercontent.com/iam-samyak/images/main/ss4.JPG?token=GHSAT0AAAAAABW73PM444HRWO5LOU5ZZCYGYXBG4JQ)
 
-![doctor section of project](https://drive.google.com/file/d/1dTQuFETtegHIkDUTq0d6NQc_bD8_DTcg/view?usp=sharing)
+![doctor section of project](https://raw.githubusercontent.com/iam-samyak/images/main/ss9.JPG?token=GHSAT0AAAAAABW73PM5PBG23P5ZYBREQFXMYXBG5CA)
 
 You can all snapshorts of this projects from:
 [https://drive.google.com/drive/folders/1CbuaEboTW6LV6_zVRpBpa8dBlUOWvoUq?usp=sharing](https://drive.google.com/drive/folders/1CbuaEboTW6LV6_zVRpBpa8dBlUOWvoUq?usp=sharing/)
